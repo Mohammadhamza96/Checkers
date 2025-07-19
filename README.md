@@ -38,24 +38,6 @@ pip (Python package installer)
 
 Installation & Execution
 
-Clone the repository:
-
-Generated bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-
-
-Install the necessary dependencies:
-The only external library needed is Pygame.
-
-Generated bash
-pip install pygame
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-Bash
-IGNORE_WHEN_COPYING_END
 
 Run the game!
 
@@ -67,6 +49,7 @@ download
 Use code with caution.
 Bash
 IGNORE_WHEN_COPYING_END
+
 🛠️ Core Technologies Used
 
 Language: Python 3
